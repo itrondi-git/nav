@@ -9,7 +9,7 @@
 
 # 仓库地址，填写 Fork 后的仓库地址，支持 Gitee / GitHub
 # 作者 Gitee 仓库地址 https://gitee.com/xiejiahe/nav
-gitRepoUrl: https://github.com/xjh22222228/nav
+gitRepoUrl: https://github.com/itrondi-git/nav
 
 # Fork 部署分支
 branch: main
@@ -27,7 +27,7 @@ password: admin
 port: 7777
 
 # 收录通知邮箱
-email: ''
+email: 'itrondi@qq.com'
 
 # 自有部署邮件通知系统
 mailConfig:
@@ -42,4 +42,4 @@ mailConfig:
 
 # 默认主仓库，当仓库作为私密，上传的图片是无法访问的，需要转移到公开仓库
 # e.g 'https://github.com/xjh22222228/image?branch=main'
-imageRepoUrl: ''
+imageRepoUrl: 'https://github.com/itrondi-git/nav-image?branch=main'
