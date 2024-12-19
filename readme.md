@@ -1,1 +1,1 @@
-https://github.com/xjh22222228/nav
+https://nav.itrondi.cn/nav
