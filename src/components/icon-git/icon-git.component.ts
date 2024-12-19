@@ -15,7 +15,7 @@ import { settings } from 'src/store'
 })
 export class IconGitComponent {
   gitRepoUrl: string = config.gitRepoUrl.includes('github.com/xjh22222228')
-    ? 'https://github.com/xjh22222228/nav'
+    ? 'https://github.com/itrondi-git/nav'
     : config.gitRepoUrl
   showGithub = settings.showGithub
 

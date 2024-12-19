@@ -16,7 +16,7 @@ export default [
                 topTypes: [2],
                 desc: '发现导航, 最强轻量级导航网站',
                 icon: 'https://gcore.jsdelivr.net/gh/xjh22222228/nav-image@image/logo.svg',
-                url: 'https://github.com/xjh22222228/nav',
+                url: 'https://github.com/itrondi-git/nav',
                 breadcrumb: ['实用工具', '开发相关', '开发神器'],
                 id: 1,
                 tags: [],

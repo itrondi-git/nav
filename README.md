@@ -8,7 +8,7 @@
   <p align="center">内置收录多达 800+ 优质网站， 助您工作、学习和生活</p>
   <p align="center">
     <img src="https://img.shields.io/github/v/release/xjh22222228/nav" />
-    <a href="https://github.com/xjh22222228/nav/stargazers"><img src="https://img.shields.io/github/stars/xjh22222228/nav" alt="Stars"/></a>
+    <a href="https://github.com/itrondi-git/nav/stargazers"><img src="https://img.shields.io/github/stars/xjh22222228/nav" alt="Stars"/></a>
     <img alt="Angular" src="https://img.shields.io/static/v1.svg?label=&message=Angular&style=flat-square&color=C82B38">
     <img src="https://img.shields.io/github/license/xjh22222228/nav" />
   </p>
@@ -40,7 +40,7 @@
 `发现导航` 的理念就是做一款无需依赖后端服务既简单又方便，没有繁杂的配置和数据库等配置概念, 做到开箱即用。
 
 - 🍰 内置 `800+` 优质网站
-- 🍰 支持 [码云 Gitee](https://gitee.com/xiejiahe/nav)
+- 🍰 支持 [码云 Gitee](hhttps://github.com/itrondi-git/nav)
 - 🍰 支持从浏览器书签导入
 - 🍰 支持将数据导出到浏览器书签
 - 🍰 支持用户提交收录
@@ -155,7 +155,7 @@
 
 ```bash
 git pull
-git remote add upstream https://gitee.com/xiejiahe/nav.git
+git remote add upstream hhttps://github.com/itrondi-git/nav.git
 git fetch upstream main
 git merge upstream/main --allow-unrelated-histories --no-edit
 git push
